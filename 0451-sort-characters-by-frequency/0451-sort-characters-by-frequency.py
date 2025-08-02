@@ -19,7 +19,7 @@ class Solution:
                     s1 = s1 + k*j
                     #print(freq[k],k)
                     del freq[k]
-            print(arr1)
+            #print(arr1)
             arr1.remove(j)
         return s1
         
