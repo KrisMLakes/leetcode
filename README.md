@@ -67,4 +67,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
