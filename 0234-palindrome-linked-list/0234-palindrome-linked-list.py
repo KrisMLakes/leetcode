@@ -6,9 +6,9 @@
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         dummy = head
-        reversed = head
+        #reversed = head
         prev = None
-        current = head
+        #current = head
 
         fast = head
         current = head
