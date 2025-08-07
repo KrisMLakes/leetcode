@@ -11,12 +11,12 @@ class Solution:
         current = head
 
         fast = head
-        slow = head
+        current = head
         while fast and fast.next:
-            slow = slow.next
+            current = current.next
             fast = fast.next.next
         
-        current = slow
+        #current = slow
 
         while current:
             nextNode = current.next
