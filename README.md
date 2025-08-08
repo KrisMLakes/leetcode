@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/KrisMLakes/leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/KrisMLakes/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/KrisMLakes/leetcode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/KrisMLakes/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/KrisMLakes/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
