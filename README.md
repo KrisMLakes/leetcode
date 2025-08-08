@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KrisMLakes/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0838-design-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KrisMLakes/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/KrisMLakes/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
