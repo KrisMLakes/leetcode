@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KrisMLakes/leetcode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/KrisMLakes/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/KrisMLakes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/KrisMLakes/leetcode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/KrisMLakes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0346-moving-average-from-data-stream](https://github.com/KrisMLakes/leetcode/tree/master/0346-moving-average-from-data-stream) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/KrisMLakes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
