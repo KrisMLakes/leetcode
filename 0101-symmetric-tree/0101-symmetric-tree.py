@@ -7,37 +7,15 @@
 from collections import deque
 class Solution:
     def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        return self.isMirror(root,root)
 
-        def isPalindrome(arr:List) -> bool:
-            length = len(arr)
-            first, last = 0,length-1
-            for _ in range(int(length/2)):
-                if arr[first] != arr[last]:
-                    return False
-                first +=1
-                last -=1
+    def isMirror(self, t1,t2):
+        if not t1 and not t2:
             return True
-
-        if not root:
-            return True
-        queue = deque([root])
-        while queue:
-            level_vals = []
-            num_of_nodes = len(queue)
-            for _ in range(num_of_nodes):
-                node = queue.popleft()
-                if node:
-                    level_vals.append(node.val)
-                    queue.append(node.left)
-                    queue.append(node.right)
-                else:
-                    level_vals.append(None)
-            if not isPalindrome(level_vals):
-                return False
-            
-        return True
-                
-            
-
-
-        
+        if not t1 or not t2:
+            return False
+        return (
+            (t1.val == t2.val)
+            and self.isMirror(t1.right, t2.left)
+            and self.isMirror(t1.left, t2.right)
+        )
