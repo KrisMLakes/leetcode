@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KrisMLakes/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/KrisMLakes/leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/KrisMLakes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/KrisMLakes/leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/KrisMLakes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -165,7 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KrisMLakes/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0270-closest-binary-search-tree-value](https://github.com/KrisMLakes/leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/KrisMLakes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/KrisMLakes/leetcode/tree/master/0270-closest-binary-search-tree-value) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0270-closest-binary-search-tree-value](https://github.com/KrisMLakes/leetcode/tree/master/0270-closest-binary-search-tree-value) |
 <!---LeetCode Topics End-->
