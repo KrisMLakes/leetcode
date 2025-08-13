@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/KrisMLakes/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/KrisMLakes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KrisMLakes/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KrisMLakes/leetcode/tree/master/1731-even-odd-tree) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/KrisMLakes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KrisMLakes/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/KrisMLakes/leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KrisMLakes/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KrisMLakes/leetcode/tree/master/1731-even-odd-tree) |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/KrisMLakes/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/KrisMLakes/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/KrisMLakes/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Backtracking
 |  |
 | ------- |
