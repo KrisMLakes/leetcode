@@ -24,22 +24,5 @@ class Solution:
                     queue.append(node.right)
         return None
 
-            
-        def returnBST(node) -> List:
-            if not node:
-                return null
-            queue1 = deque([node])
-            ans = []
-            while queue1:
-                num_nodes2 = len(queue1)
-                for _ in range(num_nodes2):
-                    node2 = queue.popleft()
-                    ans.append(node2.val)
-                    if node2.left:
-                        queue1.append(node2.left)
-                    if node2.right:
-                        queue1.append(node2.right)
-            return ans
-
 
 
