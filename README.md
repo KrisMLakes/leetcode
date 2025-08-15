@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KrisMLakes/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/KrisMLakes/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1731-even-odd-tree](https://github.com/KrisMLakes/leetcode/tree/master/1731-even-odd-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/KrisMLakes/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -246,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/KrisMLakes/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/KrisMLakes/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
