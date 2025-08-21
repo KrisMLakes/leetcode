@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/KrisMLakes/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/KrisMLakes/leetcode/tree/master/1813-maximum-erasure-value) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/KrisMLakes/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrisMLakes/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/KrisMLakes/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/KrisMLakes/leetcode/tree/master/1127-last-stone-weight) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/KrisMLakes/leetcode/tree/master/0649-dota2-senate) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KrisMLakes/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Tree
 |  |
