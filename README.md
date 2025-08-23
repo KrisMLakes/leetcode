@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/KrisMLakes/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/KrisMLakes/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrisMLakes/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrisMLakes/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/KrisMLakes/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/KrisMLakes/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/KrisMLakes/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Linked List
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/KrisMLakes/leetcode/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/KrisMLakes/leetcode/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/KrisMLakes/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/KrisMLakes/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Greedy
 |  |
 | ------- |
