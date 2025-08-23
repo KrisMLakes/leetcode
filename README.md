@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrisMLakes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/KrisMLakes/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/KrisMLakes/leetcode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/KrisMLakes/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrisMLakes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/KrisMLakes/leetcode/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/KrisMLakes/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/KrisMLakes/leetcode/tree/master/0290-word-pattern) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KrisMLakes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrisMLakes/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/KrisMLakes/leetcode/tree/master/0966-binary-subarrays-with-sum) |
