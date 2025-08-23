@@ -5,7 +5,6 @@ class Solution:
         if len(nums) == 0:
             return 0
         heapq.heapify(nums)
-        i = 0
         for i in range(k):
             n = -heapq.heappop(nums)
         return n
