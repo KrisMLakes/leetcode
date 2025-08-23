@@ -6,10 +6,10 @@ class Solution:
         total = 0
         n = len(costs)
         l, r = 0, n-1
-        for _ in range(candidates):
+        for l in range(candidates):
             if l <= r:
                 heapq.heappush(fheap, costs[l])
-                l +=1
+        l +=1
         print(fheap)
         for _ in range(candidates):
             if l <= r:
