@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/KrisMLakes/leetcode/tree/master/1127-last-stone-weight) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/KrisMLakes/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1319-unique-number-of-occurrences](https://github.com/KrisMLakes/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1464-reduce-array-size-to-the-half](https://github.com/KrisMLakes/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KrisMLakes/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/KrisMLakes/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/KrisMLakes/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/KrisMLakes/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0966-binary-subarrays-with-sum](https://github.com/KrisMLakes/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/KrisMLakes/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1464-reduce-array-size-to-the-half](https://github.com/KrisMLakes/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KrisMLakes/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/KrisMLakes/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/KrisMLakes/leetcode/tree/master/1813-maximum-erasure-value) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/KrisMLakes/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/KrisMLakes/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1464-reduce-array-size-to-the-half](https://github.com/KrisMLakes/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1829-maximum-units-on-a-truck](https://github.com/KrisMLakes/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/KrisMLakes/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/KrisMLakes/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/KrisMLakes/leetcode/tree/master/1127-last-stone-weight) |
+| [1464-reduce-array-size-to-the-half](https://github.com/KrisMLakes/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1955-seat-reservation-manager](https://github.com/KrisMLakes/leetcode/tree/master/1955-seat-reservation-manager) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrisMLakes/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/KrisMLakes/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/KrisMLakes/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
 | [1448-maximum-69-number](https://github.com/KrisMLakes/leetcode/tree/master/1448-maximum-69-number) |
+| [1464-reduce-array-size-to-the-half](https://github.com/KrisMLakes/leetcode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1829-maximum-units-on-a-truck](https://github.com/KrisMLakes/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrisMLakes/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
