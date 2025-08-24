@@ -7,11 +7,10 @@ class Solution:
         n = len(arr)
         ans, count = 0,0
         for i in ordered:
-            if (ans+i) >= n/2:
-                ans +=i
-                count +=1
+            
+            ans +=i
+            count +=1
+            if (ans) >= n/2:
                 break
-            else:
-                ans +=i
-                count +=1
+
         return count
