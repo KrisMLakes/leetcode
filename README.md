@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/KrisMLakes/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/KrisMLakes/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/KrisMLakes/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1829-maximum-units-on-a-truck](https://github.com/KrisMLakes/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/KrisMLakes/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/KrisMLakes/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/KrisMLakes/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1829-maximum-units-on-a-truck](https://github.com/KrisMLakes/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/KrisMLakes/leetcode/tree/master/0649-dota2-senate) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/KrisMLakes/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1448-maximum-69-number](https://github.com/KrisMLakes/leetcode/tree/master/1448-maximum-69-number) |
+| [1829-maximum-units-on-a-truck](https://github.com/KrisMLakes/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrisMLakes/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KrisMLakes/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
