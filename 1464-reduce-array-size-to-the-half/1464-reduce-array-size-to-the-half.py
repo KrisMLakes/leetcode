@@ -2,8 +2,7 @@ from collections import Counter
 class Solution:
     def minSetSize(self, arr: List[int]) -> int:
         counts = Counter(arr)
-        print(counts)
-        remove = set()
+        
         ordered = sorted(counts.values(), reverse = True)
         n = len(arr)
         ans, count = 0,0
