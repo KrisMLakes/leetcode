@@ -1,7 +1,7 @@
 class Solution:
     def maxNumberOfApples(self, weight: List[int]) -> int:
         weight.sort()
-        basketSize = 5000
+        #basketSize = 5000
         ans = 0
         i = 0
         for w in weight:
