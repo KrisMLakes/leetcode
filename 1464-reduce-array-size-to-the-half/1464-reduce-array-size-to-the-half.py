@@ -10,7 +10,7 @@ class Solution:
             
             ans +=i
             count +=1
-            if (ans) >= n/2:
+            if ans >= n/2:
                 break
 
         return count
