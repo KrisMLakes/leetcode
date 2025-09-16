@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/KrisMLakes/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/KrisMLakes/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/KrisMLakes/leetcode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/KrisMLakes/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/KrisMLakes/leetcode/tree/master/0649-dota2-senate) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KrisMLakes/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/KrisMLakes/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrisMLakes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrisMLakes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0392-is-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Union Find
 |  |
