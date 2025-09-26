@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrisMLakes/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KrisMLakes/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/KrisMLakes/leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/KrisMLakes/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KrisMLakes/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KrisMLakes/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrisMLakes/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrisMLakes/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KrisMLakes/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/KrisMLakes/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrisMLakes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
