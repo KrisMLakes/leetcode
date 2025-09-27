@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KrisMLakes/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrisMLakes/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrisMLakes/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/KrisMLakes/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/KrisMLakes/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/KrisMLakes/leetcode/tree/master/0274-h-index) |
 | [0346-moving-average-from-data-stream](https://github.com/KrisMLakes/leetcode/tree/master/0346-moving-average-from-data-stream) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KrisMLakes/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KrisMLakes/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KrisMLakes/leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/KrisMLakes/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KrisMLakes/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KrisMLakes/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrisMLakes/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrisMLakes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrisMLakes/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/KrisMLakes/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/KrisMLakes/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1813-maximum-erasure-value](https://github.com/KrisMLakes/leetcode/tree/master/1813-maximum-erasure-value) |
