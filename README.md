@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KrisMLakes/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KrisMLakes/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/KrisMLakes/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/KrisMLakes/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/KrisMLakes/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrisMLakes/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KrisMLakes/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KrisMLakes/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KrisMLakes/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/KrisMLakes/leetcode/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/KrisMLakes/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KrisMLakes/leetcode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/KrisMLakes/leetcode/tree/master/0290-word-pattern) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KrisMLakes/leetcode/tree/master/0036-valid-sudoku) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
