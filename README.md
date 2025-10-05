@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KrisMLakes/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KrisMLakes/leetcode/tree/master/1731-even-odd-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/KrisMLakes/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Depth-First Search
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KrisMLakes/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrisMLakes/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/KrisMLakes/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KrisMLakes/leetcode/tree/master/1731-even-odd-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/KrisMLakes/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/KrisMLakes/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/KrisMLakes/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/KrisMLakes/leetcode/tree/master/1731-even-odd-tree) |
 ## Binary Search
 |  |
