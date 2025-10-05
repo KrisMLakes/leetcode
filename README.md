@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KrisMLakes/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KrisMLakes/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KrisMLakes/leetcode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/KrisMLakes/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KrisMLakes/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KrisMLakes/leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrisMLakes/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
