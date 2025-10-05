@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KrisMLakes/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/KrisMLakes/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KrisMLakes/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/KrisMLakes/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KrisMLakes/leetcode/tree/master/0202-happy-number) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/KrisMLakes/leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/KrisMLakes/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/KrisMLakes/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
