@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KrisMLakes/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KrisMLakes/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KrisMLakes/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/KrisMLakes/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrisMLakes/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/KrisMLakes/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrisMLakes/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KrisMLakes/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/KrisMLakes/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrisMLakes/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KrisMLakes/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/KrisMLakes/leetcode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/KrisMLakes/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/KrisMLakes/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/KrisMLakes/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrisMLakes/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/KrisMLakes/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/KrisMLakes/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/KrisMLakes/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KrisMLakes/leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
