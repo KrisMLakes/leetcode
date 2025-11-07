@@ -16,10 +16,10 @@ class Solution:
             if node in visited:
                 return visited[node]
             
-            clone = Node(node.val)
-            visited[node]= clone
+            visited[node] = Node(node.val)
+            
             for nei in node.neighbors:
-                    clone.neighbors.append(dfs(nei))
-            return clone
+                    visited[node].neighbors.append(dfs(nei))
+            return visited[node]
         return dfs(node)
         
