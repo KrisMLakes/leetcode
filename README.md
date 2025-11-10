@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KrisMLakes/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/KrisMLakes/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KrisMLakes/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/KrisMLakes/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/KrisMLakes/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/KrisMLakes/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KrisMLakes/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KrisMLakes/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KrisMLakes/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KrisMLakes/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/KrisMLakes/leetcode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/KrisMLakes/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KrisMLakes/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KrisMLakes/leetcode/tree/master/0202-happy-number) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KrisMLakes/leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/KrisMLakes/leetcode/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/KrisMLakes/leetcode/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/KrisMLakes/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KrisMLakes/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KrisMLakes/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/KrisMLakes/leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Shortest Path
