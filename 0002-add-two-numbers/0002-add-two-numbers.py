@@ -15,12 +15,10 @@ class Solution:
             carry = sum1//10
             l3.next = ListNode(sum1%10)
             l3 = l3.next
+            if l1:
+                l1 = l1.next
+            if l2:
+                l2 = l2.next
 
-
-            l1 = l1.next if l1 else None
-            l2=l2.next if l2 else None
-            #l3.val=reminder
-        #print(l3.val)
-           # l1
         return head.next
         
