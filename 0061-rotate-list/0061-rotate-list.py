@@ -21,7 +21,7 @@ class Solution:
 
         current.next = head
         n = count - k +1
-        print (n)
+        
 
         while n != 0:
             current = current.next
