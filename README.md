@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KrisMLakes/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KrisMLakes/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/KrisMLakes/leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/KrisMLakes/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/KrisMLakes/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/KrisMLakes/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KrisMLakes/leetcode/tree/master/0049-group-anagrams) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/KrisMLakes/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KrisMLakes/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/KrisMLakes/leetcode/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/KrisMLakes/leetcode/tree/master/0113-path-sum-ii) |
