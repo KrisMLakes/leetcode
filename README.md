@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/KrisMLakes/leetcode/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/KrisMLakes/leetcode/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
