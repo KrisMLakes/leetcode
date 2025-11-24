@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/KrisMLakes/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KrisMLakes/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KrisMLakes/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KrisMLakes/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/KrisMLakes/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KrisMLakes/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KrisMLakes/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/KrisMLakes/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/KrisMLakes/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/KrisMLakes/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KrisMLakes/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KrisMLakes/leetcode/tree/master/0205-isomorphic-strings) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/KrisMLakes/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/KrisMLakes/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/KrisMLakes/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/KrisMLakes/leetcode/tree/master/0101-symmetric-tree) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/KrisMLakes/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KrisMLakes/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/KrisMLakes/leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/KrisMLakes/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/KrisMLakes/leetcode/tree/master/0113-path-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -555,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/KrisMLakes/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/KrisMLakes/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/KrisMLakes/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
