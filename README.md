@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/KrisMLakes/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/KrisMLakes/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/KrisMLakes/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/KrisMLakes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/KrisMLakes/leetcode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/KrisMLakes/leetcode/tree/master/1127-last-stone-weight) |
 | [1141-how-many-apples-can-you-put-into-the-basket](https://github.com/KrisMLakes/leetcode/tree/master/1141-how-many-apples-can-you-put-into-the-basket) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KrisMLakes/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/KrisMLakes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KrisMLakes/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/KrisMLakes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
 |  |
