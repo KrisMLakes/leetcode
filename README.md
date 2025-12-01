@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KrisMLakes/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrisMLakes/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/KrisMLakes/leetcode/tree/master/0399-evaluate-division) |
+| [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [0692-top-k-frequent-words](https://github.com/KrisMLakes/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/KrisMLakes/leetcode/tree/master/0735-asteroid-collision) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/KrisMLakes/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/KrisMLakes/leetcode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrisMLakes/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KrisMLakes/leetcode/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrisMLakes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrisMLakes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Union Find
 |  |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/KrisMLakes/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/KrisMLakes/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KrisMLakes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
