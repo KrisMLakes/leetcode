@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/KrisMLakes/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrisMLakes/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/KrisMLakes/leetcode/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/KrisMLakes/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/KrisMLakes/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/KrisMLakes/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/KrisMLakes/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/KrisMLakes/leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/KrisMLakes/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/KrisMLakes/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/KrisMLakes/leetcode/tree/master/0649-dota2-senate) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0226-invert-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/KrisMLakes/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/KrisMLakes/leetcode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/KrisMLakes/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/KrisMLakes/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/KrisMLakes/leetcode/tree/master/0547-number-of-provinces) |
