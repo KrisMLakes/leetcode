@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/KrisMLakes/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/KrisMLakes/leetcode/tree/master/0735-asteroid-collision) |
+| [0909-snakes-and-ladders](https://github.com/KrisMLakes/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/KrisMLakes/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/KrisMLakes/leetcode/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/KrisMLakes/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0909-snakes-and-ladders](https://github.com/KrisMLakes/leetcode/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KrisMLakes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/KrisMLakes/leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
+| [0909-snakes-and-ladders](https://github.com/KrisMLakes/leetcode/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/KrisMLakes/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
