@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/KrisMLakes/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/KrisMLakes/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/KrisMLakes/leetcode/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0346-moving-average-from-data-stream](https://github.com/KrisMLakes/leetcode/tree/master/0346-moving-average-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/KrisMLakes/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KrisMLakes/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KrisMLakes/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/KrisMLakes/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0270-closest-binary-search-tree-value](https://github.com/KrisMLakes/leetcode/tree/master/0270-closest-binary-search-tree-value) |
+| [0300-longest-increasing-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrisMLakes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrisMLakes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
