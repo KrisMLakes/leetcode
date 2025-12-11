@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KrisMLakes/leetcode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/KrisMLakes/leetcode/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/KrisMLakes/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1143-longest-common-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/1143-longest-common-subsequence) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KrisMLakes/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2470-removing-stars-from-a-string](https://github.com/KrisMLakes/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/KrisMLakes/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Union Find
 |  |
