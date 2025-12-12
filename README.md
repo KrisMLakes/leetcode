@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/KrisMLakes/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/KrisMLakes/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/KrisMLakes/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/KrisMLakes/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/KrisMLakes/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/KrisMLakes/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KrisMLakes/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KrisMLakes/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KrisMLakes/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/KrisMLakes/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/KrisMLakes/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/KrisMLakes/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/KrisMLakes/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Union Find
 |  |
 | ------- |
