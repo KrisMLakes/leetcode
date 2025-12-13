@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KrisMLakes/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KrisMLakes/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KrisMLakes/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/KrisMLakes/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KrisMLakes/leetcode/tree/master/0079-word-search) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KrisMLakes/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KrisMLakes/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KrisMLakes/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrisMLakes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrisMLakes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KrisMLakes/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/KrisMLakes/leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/KrisMLakes/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/KrisMLakes/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KrisMLakes/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/KrisMLakes/leetcode/tree/master/0130-surrounded-regions) |
