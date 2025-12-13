@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KrisMLakes/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KrisMLakes/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KrisMLakes/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/KrisMLakes/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/KrisMLakes/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KrisMLakes/leetcode/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/KrisMLakes/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KrisMLakes/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/KrisMLakes/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KrisMLakes/leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrisMLakes/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrisMLakes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KrisMLakes/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -714,4 +716,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/KrisMLakes/leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KrisMLakes/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KrisMLakes/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KrisMLakes/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
