@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/KrisMLakes/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrisMLakes/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/KrisMLakes/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/KrisMLakes/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/KrisMLakes/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/KrisMLakes/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/KrisMLakes/leetcode/tree/master/0274-h-index) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KrisMLakes/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KrisMLakes/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KrisMLakes/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/KrisMLakes/leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/KrisMLakes/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/KrisMLakes/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KrisMLakes/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/KrisMLakes/leetcode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/KrisMLakes/leetcode/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/KrisMLakes/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/KrisMLakes/leetcode/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/KrisMLakes/leetcode/tree/master/0909-snakes-and-ladders) |
