@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KrisMLakes/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/KrisMLakes/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/KrisMLakes/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/KrisMLakes/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/KrisMLakes/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/KrisMLakes/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/KrisMLakes/leetcode/tree/master/0066-plus-one) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KrisMLakes/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/KrisMLakes/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/KrisMLakes/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KrisMLakes/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/KrisMLakes/leetcode/tree/master/0242-valid-anagram) |
