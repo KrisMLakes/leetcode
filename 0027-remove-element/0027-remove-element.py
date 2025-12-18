@@ -1,8 +1,10 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        j = 0
+##""2nd 12/17/2025"
+        k = 0
         for i in range(len(nums)):
-            if (nums[i] != val):
-                nums[j]=nums[i]
-                j = j + 1
-        return j
+            if nums[i] != val:
+                nums[k] = nums[i]
+                k +=1
+   
+        return k
