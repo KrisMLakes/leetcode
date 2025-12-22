@@ -1,12 +1,12 @@
 class Solution:
+    # 2nd 12/22/25 - can solve with - time limit exceeded
     def maxProfit(self, prices: List[int]) -> int:
-
-        min_price = float('inf')
-        max_profit = 0
         
+        maxprofit = 0
+        minprice = float("inf")
         for price in prices:
-            if price < min_price:
-                min_price = price
-            max_profit = max(max_profit, price-min_price)
+            minprice = min(price, minprice)
+            maxprofit = max(maxprofit, price-minprice)
 
-        return max_profit
+        return maxprofit
+
