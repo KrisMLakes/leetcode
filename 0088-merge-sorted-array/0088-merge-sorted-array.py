@@ -2,28 +2,22 @@ class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
         Do not return anything, modify nums1 in-place instead.
-
+2nd: 12/17/2025
+3rd: 1/6/26
         """
         if n == 0:
             return
-        if m == 0:
-            nums1[:n] = nums2
-        i = len(nums1)
-        while i > 0 and m > 0 and n > 0:
+        while m > 0 and n > 0:
             if nums1[m-1] >= nums2[n-1]:
-                nums1[i-1] = nums1[m-1]
+                nums1[m+n-1] = nums1[m-1]
                 m -=1
-                i -=1
-                
             else:
-                nums1[i-1] = nums2[n-1]
+                nums1[m+n-1] = nums2[n-1]
                 n -=1
-                i -=1
-        
-        while i > 0 and n > 0:
-            nums1[i-1] = nums2[n-1]
-            i -=1
+        while m == 0 and n > 0:
+            nums1[m+n-1] = nums2[n-1]
             n -=1
 
 
-        
+  
+
