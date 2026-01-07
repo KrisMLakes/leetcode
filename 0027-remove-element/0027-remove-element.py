@@ -1,7 +1,7 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
 ##""2nd 12/18/2025"
-## 3rd 1/7/2026
+## 3rd 1/7/2026 - Own solution !! yey !!
         k = 0
         n = len(nums)
         if n == 0:
