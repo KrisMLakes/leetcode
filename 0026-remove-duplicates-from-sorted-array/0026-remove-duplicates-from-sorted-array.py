@@ -1,14 +1,16 @@
 class Solution:
-    # 2nd 12/19/25
+    # 2nd 12/19/25 ( chatgpt)
+    # 3rd 1/7/2026
     def removeDuplicates(self, nums: List[int]) -> int:
-        i, j, k = 1, 1, len(nums)
+        k = 1
+        for i in range(1,len(nums)):
+            if nums[i] != nums[i-1]:
+                nums[k] = nums[i]
+                k +=1
 
-        for j in range(1, len(nums)):
-            if nums[j] > nums[j-1]:
-                nums[i] = nums[j]
-                i +=1
-        return i
-            
+                
+        return k
+ 
 
             
         
