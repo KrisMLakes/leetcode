@@ -1,17 +1,19 @@
 from collections import defaultdict
 class Solution:
+    # 2nd 12/20/2025   dict example on google
     def majorityElement(self, nums: List[int]) -> int:
-        counts = {}
-        for num in nums:
-            if num in counts:
-                counts[num] +=1
+        count = len(nums)
+        major_dict = {}
+        for i in nums:
+            if i in major_dict:
+
+                major_dict[i] = major_dict[i] + 1
             else:
-                counts[num] = 1
-        k = len(nums)
-        for num in nums:
-            if counts[num] >= k/2:
-                return num
-        #return
- 
+                major_dict[i] = 1
+                
+            if major_dict[i] > count/2:
+                return i
+        
+
 
         
