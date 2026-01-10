@@ -1,12 +1,15 @@
 class Solution:
-    # 2nd 12/22/25 - can solve with - time limit exceeded
+    # 2nd 12/22/25 - can solve with - time limit exceeded; chatgpt - optimal
+    # 3rd 1/10/26 - time limit exceeded - two pointer didnt work
     def maxProfit(self, prices: List[int]) -> int:
-        
-        maxprofit = 0
-        minprice = float("inf")
+        maxProfit = 0
+        minPrice = float(inf)
+
         for price in prices:
-            minprice = min(price, minprice)
-            maxprofit = max(maxprofit, price-minprice)
+            if price < minPrice:
+                minPrice = price
+            if price - minPrice > maxProfit:
+                maxProfit = price - minPrice
 
-        return maxprofit
-
+        return maxProfit
+        
