@@ -1,14 +1,19 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        write, read, k = 2, 3, len(nums)
-        if k <= 2:
-            return k
-        for read in range(2, k):
-            if nums[read] != nums[write-2]:
-                nums[write] = nums[read]
-                write +=1
+        # 12/20/25 2nd , chatgpt
+        # 1/10/26 3rd
+        k, n, j, i = 2, len(nums), len(nums)-1, 2
+        #for i in range(2,n-1):
+        for i in range(2,n):
 
-        return write 
+            if nums[i] != nums[k-2]:
+                nums[k] = nums[i]
+                k +=1
+            #i +=1
+
+        return k
+
+
 
 
 
