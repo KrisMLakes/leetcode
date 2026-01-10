@@ -3,16 +3,20 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         2nd, chatgpt, 12/20/25
+        3rd, 1/10/2026
         """
-        n = len(nums)
+        k %=len(nums)
 
-        k = k%n
-        def reverse(l, r):
-            while l <= r:
-                nums[l], nums[r] = nums[r], nums[l]
-                l +=1
-                r -=1
-        reverse(0,n-1)
-        reverse(0,k-1)
-        reverse(k, n-1)
+        def reverse(nums: List[int], n1: int, n2: int):
+            j = n2# = len(nums)
+            for i in range(n1,int(n1 + (n2-n1)/2)):
+                nums[i], nums[j-1] = nums[j-1], nums[i]
+                j -=1
+        reverse(nums, 0, len(nums))
+        #print (nums)
+        reverse(nums, 0, k)
+        #print (nums)
+        reverse(nums, k, len(nums))
+        
+
         
