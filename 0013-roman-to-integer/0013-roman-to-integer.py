@@ -11,9 +11,8 @@ class Solution:
         }
         total  = 0
         for i in range(len(s)):
-            if i+1<(len(s)) and (roman[s[i]] < roman[s[i+1]]):
+            if i+1 < len(s) and roman[s[i]] < roman[s[i+1]]:
                 total -= roman[s[i]]
             else:
                 total += roman[s[i]]
-
         return total
