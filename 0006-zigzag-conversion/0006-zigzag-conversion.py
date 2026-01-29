@@ -1,5 +1,6 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
+        #3rd: 1/29: mostly own, remembered from weekend review
         if numRows == 1 or len(s) == 1:
             return s
         zigrows = [""]*numRows
