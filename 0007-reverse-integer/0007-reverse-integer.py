@@ -1,22 +1,23 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        i = 0
-        arr = []
-        neg = 1
-        if x == 0:
+        #1st attempt, 1/24 Own solution  ( leetcode does math based, I did string based)
+        #3rd, 1/31; 2nd on paper
+        if -9 <= x <= 9:
             return x
+        step = 1
         if x < 0:
-            neg = -1
-            x = neg*x
+            step = -1
+            x *= step
+        y = 0
         while x > 0:
-            arr.append(x%10)
-            x = int( x / 10)
-            i += 1
-            #print (i, x, arr)
-        x = neg*int("".join(map(str,arr)))
-        if -2**31 <= x <= 2**31 + 1:
-            return x
+            reminder = x % 10
+            x = x//10
+            
+            y = y*10 + reminder
+            #print (reminder, x, y)
+        y *=step
+        if -2**31 <= y <= 2**31-1:
+            return y
         else:
             return 0
-        
         
