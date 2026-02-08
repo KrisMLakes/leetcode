@@ -1,5 +1,6 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
+        # 2/8/26 - own solution after 2 rounds of paper pencil practice
         n = len(height)
         left, right =  0, n-1
         max_area = 0
